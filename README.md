@@ -11,4 +11,7 @@ Lcd hole, Mount for motor, Insert Arduino
 
 ## Pictures of Near Finished Design
 
-![image](https://github.com/Olindsa32/PIDbox/blob/main/finalAssemblyFullPicture.png)
+<img src = "https://github.com/Olindsa32/PIDbox/blob/main/wheelHolderPicture.png" width="300">
+<img src = "https://github.com/Olindsa32/PIDbox/blob/main/pictureOfMotorHolder.png" width="300">
+<img src = "https://github.com/Olindsa32/PIDbox/blob/main/finalAssemblyFullPicture.png" width="300">
+<img src = "https://github.com/Olindsa32/PIDbox/blob/main/wallsInLayout.png" width="300">
