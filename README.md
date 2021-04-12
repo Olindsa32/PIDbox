@@ -4,7 +4,7 @@ Repository for Owen and Evan's Ultrasonic-Controlled PID Box Project™
 
 
 # Python Code
-Evan's Part of the Project
+Evan's part of the project.
 Coded Ultrasonic Sensor, Photointerrupter and Motor
 
 
@@ -14,7 +14,7 @@ Coded Ultrasonic Sensor, Photointerrupter and Motor
 
 
 # Onshape Drawing
-Owen's part of the project
+Owen's part of the project.
 Created box to hold parts
 
 
