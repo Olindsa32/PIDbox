@@ -8,3 +8,7 @@ Repository for Owen and Evan's PID Box project
 
 ## Design Ideas
 Lcd hole, Mount for motor, Insert Arduino
+
+## Pictures of Near Finished Design
+
+![image](https://github.com/Olindsa32/PIDbox/blob/main/finalAssemblyFullPicture.png)
