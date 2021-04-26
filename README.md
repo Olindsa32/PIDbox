@@ -30,3 +30,5 @@ LED goes right below wheel to create strobe effect while it is spinning fast.
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/pictureOfMotorHolder.png" width="300">
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/finalAssemblyFullPicture.png" width="300">
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/wallsInLayout.png" width="300">
+
+## Final Changes to the Wheel Area 
