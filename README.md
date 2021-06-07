@@ -1,6 +1,4 @@
 
-
-
 # Ultrasonic PID Box
 Repository for Owen and Evan's Ultrasonic-Controlled PID Box Project™
 
@@ -14,8 +12,12 @@ Coded Ultrasonic Sensor, Photointerrupter and Motor
 ## Outine code
 ![image](https://user-images.githubusercontent.com/60944377/106641988-d1b72b80-6555-11eb-96ac-48d284462aae.png)
 
-## Motor Code/ Demonstartion
+## Motor Code
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/Motor%20Code.png" width="500">
+
+## Ultrasonic Sensor Code
+
+
 
 
 
