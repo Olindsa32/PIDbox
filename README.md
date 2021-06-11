@@ -22,7 +22,7 @@ This tells this arduino to provide power to the 9th pin in order to
 ![IMG_3559 (1)](https://user-images.githubusercontent.com/60944377/121037283-540e6100-c77d-11eb-9b58-11d416922592.gif)
 ![IMG_3561 (1)](https://user-images.githubusercontent.com/60944377/121037304-57095180-c77d-11eb-8a02-a1b421052e39.gif)
 ![image](https://github.com/Olindsa32/PIDbox/blob/main/Ultrasonic%20sensor%20code.png)
-
+![image](https://github.com/Olindsa32/PIDbox/blob/main/Fritzing%20for%20ultrasonic.png)
 
 
 # Onshape Drawing
