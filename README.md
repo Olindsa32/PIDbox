@@ -14,7 +14,7 @@ Coded Ultrasonic Sensor, Photointerrupter and Motor
 
 ## Motor Code
 ![image](https://github.com/Olindsa32/PIDbox/blob/main/Motor%20Code.png)
-
+![image](https://github.com/Olindsa32/PIDbox/blob/main/Motor%20wiring.png)
 This tells this arduino to provide power to the 9th pin in order to 
 
 ## Ultrasonic Sensor Code
