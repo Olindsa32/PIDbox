@@ -58,7 +58,7 @@ The new motor holder is a near exact fit and will use screws on either side to c
 # Reflection and Materials
 
 ## Reflection
-This project was not an impossible feat to complete on time. As a group we simply were delayed too much to finish on time. If you were looking to do this project here are a couple things that may help you finish on time: When coding you should separate all of the elements and add them together at the end so that oyu can diagnose problems easier and not overload yourself. When designing in CAD build the important pieces like the wheel holder and motor holders first and then build the shape and size of your box around those pieces because the most important thing is everything fitting well inside the box and working well.
+This project was not an impossible feat to complete on time. As a group we simply were delayed too much to finish on time. If you were looking to do this project here are a couple things that may help you finish on time: When coding you should separate all of the elements and add them together at the end so that oyu can diagnose problems easier and not overload yourself. When designing in CAD build the important pieces like the wheel holder and motor holders first and then build the shape and size of your box around those pieces because the most important thing is everything fitting well inside the box and working well. I would reccomend this project to anyone who wants a challenge combining various code we have learned. Anohter pro from this project is that when designing in CAD you have a lot of freedom to design in different ways. 
 
 ## Materials
 We used a sheet of laser-cutting material to build the shape of our project and a small piece of 3D printing material to test out motor holder.
