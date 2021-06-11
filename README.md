@@ -14,7 +14,8 @@ Coded Ultrasonic Sensor, Photointerrupter and Motor
 
 ## Motor Code
 ![image](https://github.com/Olindsa32/PIDbox/blob/main/Motor%20Code.png)
-This tells this arduijno to provide power to the 9th pin in order to 
+
+This tells this arduino to provide power to the 9th pin in order to 
 
 ## Ultrasonic Sensor Code
 
@@ -42,7 +43,6 @@ LED goes right below wheel to create strobe effect while it is spinning fast.
 This motor holder has now been replaced with a different interpretation of a motor holder. The reason for this is because this design was not attached to the same plane as the the rest of the wheel setup, meaning that if the motor moved at all when it was running it could unalign from the wheel setup and make the whole thing not work. New design is attached to the wheel holder meaning if one vibrates and moves things it will move both together.
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/finalAssemblyFullPicture.png" width="300">
 <img src = "https://github.com/Olindsa32/PIDbox/blob/main/wallsInLayout.png" width="300">
-
 The clear cover on top of the wall with the wheel holder has now been scrapped
 
 ## Final Changes to the Wheel Area 
